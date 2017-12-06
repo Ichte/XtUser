@@ -2,6 +2,7 @@
     "name": "ichte/xt-user",
     "description": "User Manager",
     "type": "module",
+    "version": "1.0",
     "license": "BSD-3-Clause",
     "keywords": [
         "xtUser"
@@ -21,12 +22,6 @@
     "autoload": {
         "psr-4": {
             "Ichte\\XtUser\\": "src/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0"
-
         }
     }
 
