@@ -10,7 +10,8 @@
     "homepage": "https://xuanthulab.net/",
     "require": {
         "php": "^5.5 || ^7.0",
-        "zendframework/zend-authentication": "^2.5.0"
+        "zendframework/zend-authentication": "^2.5.0",
+        "zendframework/zend-crypt": "3.2.1"
     },
     "authors": [
         {
