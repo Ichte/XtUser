@@ -1,5 +1,5 @@
 <?php
-namespace Ichte\XtUser;
+namespace Ichte\User;
 
 class Module
 {

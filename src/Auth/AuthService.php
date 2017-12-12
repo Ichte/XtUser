@@ -1,5 +1,5 @@
 <?php
-namespace Ichte\XtUser\Auth;
+namespace Ichte\User\Auth;
 
 use Zend\Authentication\AuthenticationService;
 use Zend\ServiceManager\ServiceLocatorInterface;
