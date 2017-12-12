@@ -1,13 +1,12 @@
 {
     "name": "ichte/xt-user",
-    "description": "User Manager",
+    "description": "Users",
     "type": "module",
     "version": "1.0",
     "license": "BSD-3-Clause",
     "keywords": [
         "xtUser"
     ],
-    "homepage": "https://xuanthulab.net/",
     "require": {
         "php": "^5.5 || ^7.0",
         "zendframework/zend-authentication": "^2.5.0",
@@ -22,7 +21,7 @@
 
     "autoload": {
         "psr-4": {
-            "Ichte\\XtUser\\": "src/"
+            "Ichte\\User\\": "src/"
         }
     }
 
